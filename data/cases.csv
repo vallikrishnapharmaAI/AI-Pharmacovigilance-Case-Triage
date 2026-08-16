@@ -1,0 +1,11 @@
+case_id,drug,event,seriousness,outcome
+PV001,Drug A,Rash,Non-Serious,Recovered
+PV002,Drug B,Anaphylaxis,Serious,Hospitalized
+PV003,Drug C,Headache,Non-Serious,Recovered
+PV004,Drug A,Nausea,Non-Serious,Recovering
+PV005,Drug D,Seizure,Serious,Hospitalized
+PV006,Drug B,Dizziness,Non-Serious,Recovered
+PV007,Drug C,Anaphylaxis,Serious,Recovered
+PV008,Drug E,Fever,Non-Serious,Recovering
+PV009,Drug A,Angioedema,Serious,Hospitalized
+PV010,Drug D,Vomiting,Non-Serious,Recovered
